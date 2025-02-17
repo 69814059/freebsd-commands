@@ -1,6 +1,4 @@
-# freebsd-commands
 
-sbz's FreeBSD commands cheat-sheet
 
 ## Mount commands
 
